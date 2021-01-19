@@ -1,0 +1,640 @@
+﻿{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "3HrF5AGlAt1D7Izwk7JMkbMwfvw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BNLAQ2VEKcI49vwqUDb7U-OvEZM",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:31:14Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Чело коте книжки 2",
+        "description": "друг вариант на \"Чело коте книжки\"\nтекст и музика: Дора ДРАГАНОВА\n\nЧело коте, чело коте,\nчело коте книжки\nкак се хващат, как се хващат\nмалки сиви мишки.\nПърво правило това е\nсвий добре уши,\nна дъга извий гръбнак\nкакто прави татко котарак\n\nПиси, писи, пис, мац пис,\nмър мяу, мър мяу.\nНа дъга извий гръбнак\nкакто прави татко котарак.\n\nПосле с кадифени лапи\nфигура, тихо стъпвай,\nкъм мишока\nлеко се промъквай.\nМного важно е за скока\nти да избереш\nнай-удобният момент,\nтуй на мама маца е патент.\n\nПиси, писи, пис, мац пис,\nмър мяу, мър мяу.\nНай-удобният момент,\nтуй на мама маца е патент.\n\nЧело коте, чело коте,\nчело коте книжки\nкак се хващат, как се хващат\nмалки сиви мишки.\nНо накрая, но накрая\nстарият мишок\nтъй го стресна, че забрави\nсвоя пръв урок.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxwQikS9iQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxwQikS9iQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxwQikS9iQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RxwQikS9iQo"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vcBNmighpPdX740GVfz9dvZi8-8",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:31:34Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Над смълчаните полета",
+        "description": "Над смълчаните полета - детска, новогодишна песничка",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FDwuI_x9hZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FDwuI_x9hZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FDwuI_x9hZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FDwuI_x9hZQ"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nYKfHaPdribyyNT316HpraG1Iic",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:31:47Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Дъга",
+        "description": ",, Дъга'' - Виктор Чучков",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sHJxwkZCEDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sHJxwkZCEDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sHJxwkZCEDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sHJxwkZCEDw"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hybDezq2Io0ewiozhTJ_Cm2FhRs",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:31:59Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Усмивка.wmv",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7DMUE24s4K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7DMUE24s4K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7DMUE24s4K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7DMUE24s4K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7DMUE24s4K4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7DMUE24s4K4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ra7QGAVchmGu58ZdkSgx6YTPbgM",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:32:20Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Дядо вади ряпа.wmv",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5vPzUMsbac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5vPzUMsbac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5vPzUMsbac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O5vPzUMsbac"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "it2iPKQ6UejV-TOoG6kQBarnBGo",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:32:33Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Две калинки - детска песничка",
+        "description": "Обичана детска песничка .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptZw7CV01-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptZw7CV01-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptZw7CV01-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptZw7CV01-E"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pldlj5TgAW8mQheylTc2APbj8ic",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:33:25Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Пей , звънче",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7DSPkXp6P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7DSPkXp6P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7DSPkXp6P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7DSPkXp6P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l7DSPkXp6P4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TDgnn0sSUwOBUkKPhxzhDIvkWDI",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:33:37Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Червената шапчица",
+        "description": "Слушате ли в компанията на своето семейство с удоволствие песничката \"Червената шапчица\", оставила трайна следа в детските спомени на няколко поколения българи?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PSnlafQsuqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PSnlafQsuqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PSnlafQsuqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PSnlafQsuqA"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-f5q_g8rwZc3SM8yHRYjva4-lh4",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:33:49Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Сънчо : Песничка за Барбароните",
+        "description": "Сънчо : Песничка за Барбароните",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UGuK_FpBwjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UGuK_FpBwjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGuK_FpBwjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UGuK_FpBwjE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UGuK_FpBwjE"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FLI3PNkarmDIfoRYhDz247nDgxU",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:33:58Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "ОРАНЖЕВО  НЕБЕТО",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HeOG8i4Y1kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HeOG8i4Y1kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HeOG8i4Y1kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HeOG8i4Y1kE"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mBfv0Z16QPf97OP5fDPBygbvLak",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:34:11Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "У дома часовник трака 2",
+        "description": "Обичат ли вашите деца \"У дома часовник трака 2\"? Наслаждавате ли се на тяхното бързо порастване пред очите ви?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0_jx3TNyfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0_jx3TNyfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0_jx3TNyfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x0_jx3TNyfw"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O_o0IFhRyBGPZNhgRqxIcgmFdDU",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:35:47Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Щъркел шарен, дългокрак",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yGDxsjGJcII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yGDxsjGJcII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGDxsjGJcII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yGDxsjGJcII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yGDxsjGJcII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yGDxsjGJcII"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yh-RrdRU7tn9dnwBtouMvTQuQy4",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2016-11-07T05:14:10Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Krisia, Hasan and Ibrahim - Planet Of The Children (Bulgaria) 2014 Junior Eurovision Song Contest",
+        "description": "Krisia, Hasan and Ibrahim will represent Bulgaria at the 2014 Junior Eurovision Song Contest in Malta with the song Planet Of The Children",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsQurxrp2i4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsQurxrp2i4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsQurxrp2i4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gsQurxrp2i4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gsQurxrp2i4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gsQurxrp2i4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rrayoT8Dk2q3V8_aOCYjuG_Irk4",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2016-11-07T05:16:21Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Откъснатите цветя на България",
+        "description": "https://www.facebook.com/pages/Victor-Velinov-and-Vera-Velinova/1554967741444861 \nhttps://soundcloud.com/victorvelinov/tracks\nХимн на българските емигрантски деца\nВиктор Велинов е на осем години. Роден и живее в Ню Йорк. Преди година, след като разбра, че ще пътува за България през лятото, съчини тази песен... \n\nНаскоро успяхме да запишем песента му в студио, благодарение на любезното съдействие на StarVocal Studio, New York; с участието на  Нели Минчева и Мартина Радославова - нашите прекрасни бек-вокалистки, които живеят в Кънектикът. :) \n\nПесента е посветена на всички български деца, родени и растящи извън България, които носят българска кръв и самосъзнание. \n\nДалеч от Родината, ние не преставаме да бъдем българи!\n\n****\nТова е страницата ни във Фейсбук. Харесайте ни, ако искате да следите новини за Виктор и сестричката му Вера.\nhttps://www.facebook.com/pages/Victor-Velinov-and-Vera-Velinova/1554967741444861\n\n****\n\n Откъснатите цветя на България\n (химн на емигрантските деца)\n \n България, България!\n Аз обичам България! \n България, България -\n Сърцето ми е в България! \n\nМама е родена във България, \nНо заминала много надалеч... \nАз говоря на езика, майчиния\nИ сънувам българската реч.\n\n България, България - \n Така нарича мама сълзите си \n България, България,\n Земя, където почиват дедите ни...\n \n\nДали ще те открием пак, България,\nТи ще познаеш ли своите чеда -\nПилeни по света и разпилявани\nОткъснати от корена цветя.\n\nХиляди крехки цветя,\nса откъснати и разпилeни по света.\nТова са децата на един непреклонен народ\nсъс славно минало...\n\n България! България!\n Ние сме цветята ти откъснати... \n България, България,\n Но в кръвта ни винаги възкръсваш ти!\n \nVictor Velinov\nKristina Velinova\n\nТук може да бъде изтеглена караоки версия - с или без бек-вокалите. А така също и аудио файл на оригиналната песен: https://soundcloud.com/victorvelinov/tracks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKtK_Ll7rQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKtK_Ll7rQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKtK_Ll7rQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GKtK_Ll7rQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GKtK_Ll7rQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GKtK_Ll7rQg"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2xxWdmgcbjms9C5BO2qiRC4wqMM",
+      "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-01-18T01:05:44Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Здравей кола",
+        "description": "детска песен. Коли и цветове.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dqVAYnbIUT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dqVAYnbIUT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dqVAYnbIUT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dqVAYnbIUT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dqVAYnbIUT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dqVAYnbIUT0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 15,
+    "resultsPerPage": 50
+  }
+}
