@@ -1,10 +1,10 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "3HrF5AGlAt1D7Izwk7JMkbMwfvw",
+  "etag": "yNFDeJKbsLmINf11w1WCaNrUpkY",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "2xxWdmgcbjms9C5BO2qiRC4wqMM",
+      "etag": "47LS2TF-UjwXO5bpvcsXAzUfV8s",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yMDhBMkNBNjRDMjQxQTg1",
       "snippet": {
         "publishedAt": "2021-01-18T01:05:44Z",
@@ -40,7 +40,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 14,
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dqVAYnbIUT0"
@@ -52,7 +52,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BNLAQ2VEKcI49vwqUDb7U-OvEZM",
+      "etag": "7WhpeKlWQnhKGYbODUvy_K2kAhI",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2016-11-06T18:31:14Z",
@@ -78,7 +78,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "RxwQikS9iQo"
@@ -90,7 +90,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vcBNmighpPdX740GVfz9dvZi8-8",
+      "etag": "Pnl1JsH9MOelNC5BfoiFq2ZYrPo",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2016-11-06T18:31:34Z",
@@ -116,7 +116,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FDwuI_x9hZQ"
@@ -128,7 +128,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "nYKfHaPdribyyNT316HpraG1Iic",
+      "etag": "wc656X3KGt_IJ2SqrJbUMO6XjlQ",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2016-11-06T18:31:47Z",
@@ -154,7 +154,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "sHJxwkZCEDw"
@@ -166,7 +166,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hybDezq2Io0ewiozhTJ_Cm2FhRs",
+      "etag": "zptc11HWz7Ed-NrCcZAUc_aJfwo",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2016-11-06T18:31:59Z",
@@ -202,7 +202,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "7DMUE24s4K4"
@@ -214,7 +214,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ra7QGAVchmGu58ZdkSgx6YTPbgM",
+      "etag": "yOLlruJ7D_1X7g0cWF9G5PhYxDQ",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2016-11-06T18:32:20Z",
@@ -240,7 +240,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "O5vPzUMsbac"
@@ -252,7 +252,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "it2iPKQ6UejV-TOoG6kQBarnBGo",
+      "etag": "sW7_kLn_tPsf3cfaD6-56a8PmLg",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2016-11-06T18:32:33Z",
@@ -278,7 +278,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ptZw7CV01-E"
@@ -290,7 +290,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Pldlj5TgAW8mQheylTc2APbj8ic",
+      "etag": "cyzVD5Kadkc0MzL0j-1ydxlvYP8",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
         "publishedAt": "2016-11-06T18:33:25Z",
@@ -321,7 +321,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "l7DSPkXp6P4"
@@ -333,7 +333,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TDgnn0sSUwOBUkKPhxzhDIvkWDI",
+      "etag": "8Zs7P0rp2Nr2on8UE1CDdCd_2dg",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2016-11-06T18:33:37Z",
@@ -359,7 +359,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "PSnlafQsuqA"
@@ -371,7 +371,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "-f5q_g8rwZc3SM8yHRYjva4-lh4",
+      "etag": "9wsvUkXfM1ILqUWCJ9v0jdHNgw0",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2016-11-06T18:33:49Z",
@@ -402,7 +402,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "UGuK_FpBwjE"
@@ -414,7 +414,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FLI3PNkarmDIfoRYhDz247nDgxU",
+      "etag": "tE_rQXLxvpnR1Eft9geJmy3HNuA",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2016-11-06T18:33:58Z",
@@ -440,7 +440,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HeOG8i4Y1kE"
@@ -452,7 +452,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mBfv0Z16QPf97OP5fDPBygbvLak",
+      "etag": "BpwejOTHioKWGqBJ-TWDmX8Y3Ro",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2016-11-06T18:34:11Z",
@@ -478,7 +478,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "x0_jx3TNyfw"
@@ -490,7 +490,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "O_o0IFhRyBGPZNhgRqxIcgmFdDU",
+      "etag": "tAoQ1XqHv7wXKKMk63MYtQNaK_w",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi5EQUE1NTFDRjcwMDg0NEMz",
       "snippet": {
         "publishedAt": "2016-11-06T18:35:47Z",
@@ -526,7 +526,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 11,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "yGDxsjGJcII"
@@ -538,7 +538,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yh-RrdRU7tn9dnwBtouMvTQuQy4",
+      "etag": "YBdy66vaY7N1sghn1FlmM7HTPEs",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi4yMUQyQTQzMjRDNzMyQTMy",
       "snippet": {
         "publishedAt": "2016-11-07T05:14:10Z",
@@ -574,7 +574,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 12,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "gsQurxrp2i4"
@@ -586,7 +586,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rrayoT8Dk2q3V8_aOCYjuG_Irk4",
+      "etag": "Ku-bh-O7ypkdCEjZo7GC31eyB9g",
       "id": "UExIbG9WU0tOb2VsVlpZM0ZUNXJBaGFPLXpaMXNKZkdmbi45RTgxNDRBMzUwRjQ0MDhC",
       "snippet": {
         "publishedAt": "2016-11-07T05:16:21Z",
@@ -622,7 +622,7 @@
         },
         "channelTitle": "Jorge Ag",
         "playlistId": "PLHloVSKNoelVZY3FT5rAhaO-zZ1sJfGfn",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GKtK_Ll7rQg"
