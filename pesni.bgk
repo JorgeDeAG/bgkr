@@ -49,7 +49,7 @@
       "status": {
         "privacyStatus": "public"
       }
-    }
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "BNLAQ2VEKcI49vwqUDb7U-OvEZM",
