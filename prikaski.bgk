@@ -1,0 +1,48 @@
+﻿{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "oGcFBoO7cBPFqy9SIWGhq5iAt8s",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mCK_ovMYvyzAnHcrGjq0axinctk",
+      "id": "UExIbG9WU0tOb2VsVVJzZ1hBUmpLbEVKVmg3QjltOVdIay41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:37:05Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Косе Босе",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Yg72bC1NAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Yg72bC1NAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Yg72bC1NAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelURsgXARjKlEJVh7B9m9WHk",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Yg72bC1NAw"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  }
+}

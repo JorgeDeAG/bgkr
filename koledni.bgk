@@ -1,0 +1,167 @@
+﻿{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "aOUjya59pfr2tHP5dXvB_9v1W64",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ToxM4KGLgBqNhugcne0mvlbwYd0",
+      "id": "UExIbG9WU0tOb2VsWFBfZ0c2dnNCWVBVXzM4TnhaWGVPYS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:44:01Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Зимно хорце - детска песничка",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0VebQ4bOKVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0VebQ4bOKVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0VebQ4bOKVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0VebQ4bOKVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelXP_gG6vsBYPU_38NxZXeOa",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0VebQ4bOKVA"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ba1_kXeSdg95PCDYanCkgCCuISE",
+      "id": "UExIbG9WU0tOb2VsWFBfZ0c2dnNCWVBVXzM4TnhaWGVPYS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:44:35Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "ЗИМНО ХОРЦЕ детска песничка",
+        "description": "музика и текст: народен\r\n аранжимент: Георги Генков\r\n \r\nизпълнява:\r\n Александър Мутафчийски и хор \"Децата на Орфей\"\r\n\r\nпесничката е от диска \r\n\r\n28 МУЗИКАЛНИ ЖЪЛТИЧКИ\r\n (Популярни детски песнички)\r\n \r\nпродуцент:\r\nБойко Канев",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mc2BAXKygg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mc2BAXKygg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mc2BAXKygg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelXP_gG6vsBYPU_38NxZXeOa",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0mc2BAXKygg"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QlY0fmhCA_vTyz-odBP5r_n1NUk",
+      "id": "UExIbG9WU0tOb2VsWFBfZ0c2dnNCWVBVXzM4TnhaWGVPYS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:44:47Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Дядо Мраз - зън, зън....",
+        "description": "поздрав за всички, които помнят \"Дядо Мраз\"\r\nМузика: Христо Недялков\r\nТекст: Димитър Спасов",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oERhcagRoQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oERhcagRoQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oERhcagRoQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelXP_gG6vsBYPU_38NxZXeOa",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oERhcagRoQM"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R7g9yWDgGkDcAS-ZDwiOsg3rai8",
+      "id": "UExIbG9WU0tOb2VsWFBfZ0c2dnNCWVBVXzM4TnhaWGVPYS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:44:57Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Коледна песничка - Снежен човек",
+        "description": "Детска коледна песничка",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1-2ZpGvOsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1-2ZpGvOsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1-2ZpGvOsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelXP_gG6vsBYPU_38NxZXeOa",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f1-2ZpGvOsY"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 50
+  }
+}

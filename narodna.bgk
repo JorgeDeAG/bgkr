@@ -1,0 +1,86 @@
+﻿{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "tPJi2WmC1_RUjuk9NRV1RPBI0C8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wN6s8ZZcvdky45X0wz4axGJT3Ns",
+      "id": "UExIbG9WU0tOb2VsVnppcHJ0aUNYVUtOcEJZZVg2RExNdy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:45:40Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Еленино Хоро",
+        "description": "Ibro Lolov is one of the best accordion players in the world!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y_Y8qtnmjxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y_Y8qtnmjxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y_Y8qtnmjxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVziprtiCXUKNpBYeX6DLMw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y_Y8qtnmjxk"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3l_wWglmWzcWX0EKQFN-DytxATo",
+      "id": "UExIbG9WU0tOb2VsVnppcHJ0aUNYVUtOcEJZZVg2RExNdy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-11-06T18:45:59Z",
+        "channelId": "UCxId0zcCQrGrUJNcOszirbg",
+        "title": "Diko Iliev - Dunavsko Horo",
+        "description": "Diko Iliev - Dunavsko Horo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hzmrdi2_S18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hzmrdi2_S18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hzmrdi2_S18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jorge Ag",
+        "playlistId": "PLHloVSKNoelVziprtiCXUKNpBYeX6DLMw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hzmrdi2_S18"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 50
+  }
+}
